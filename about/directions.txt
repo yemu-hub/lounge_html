@@ -1,0 +1,17 @@
+<html>
+<head> 
+	<title>Lounge Directions</title>
+</head>
+<body>
+	<h1>Directions</h1>
+         
+	<p>
+		Take on 305 - go 12 mi
+		Continue right at Structure Ave N - go 0.6 mi
+		Turn right and head toward Structure Ave N - go 0.0 mi
+		Turn right at Structure Ave N - go 0.7 MI
+		Continue on Structure Avd S - go 0.2 mi
+		Turn right as SW Presentation Way - go 0.0 mi
+	</p>
+ </body>
+</html>
